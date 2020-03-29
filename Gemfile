@@ -66,5 +66,6 @@ gem 'devise' #ログイン
 gem 'paperclip' #画像のアップロード
 gem 'kaminari' #ページネーション
 gem 'therubyracer'
-gem 'twitter-bootstrap-rails'
-gem 'bootstrap-material-design'
+gem 'twitter-bootstrap-rails', '3.2.2'
+gem 'bootstrap-material-design', '0.1.4'
+gem 'jquery-rails'
