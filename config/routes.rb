@@ -1,5 +1,5 @@
 Rails.application.routes.draw do
-  devise_for :users
+  devise_for :users #deviseコマンドで追加される
   # For details on the DSL available within this file, see http://guides.rubyonrails.org/routing.html
   root to: "top#index" #to:は省略可能
 end
